@@ -1,6 +1,6 @@
 # Khalid Annan
 **Network & Security Engineer · SOC Analyst**
-Gothenburg, Sweden
+Globally Connected
 
 Qualified Network Engineer (Yrkeshögskoleexamen, Nätverksspecialist) with hands-on SOC analyst experience, building and securing real network infrastructure.
 
