@@ -12,7 +12,7 @@
 
 ---
 
-**Network &amp; security engineer who builds the tools he secures with.** Qualified network engineer  with hands-on SOC analyst experience — designing, building, and securing real infrastructure.
+**Network &amp; Security engineer who builds the tools he secures with.** Qualified network engineer  with hands-on SOC analyst experience — designing, building, and securing real infrastructure.
 
 **Recent** &emsp; Designed a segmented four-zone SOC lab with SIEM-based threat detection *(thesis)*. SOC analyst placement — evaluated *"ready for entry-level SOC analyst roles."*
 
