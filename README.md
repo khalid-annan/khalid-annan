@@ -1,29 +1,22 @@
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   KHALID ANNAN                                                       │
-│   Network & Security Engineer  ·  SOC Analyst                        │
-│   Gothenburg, Sweden                                                 │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+<a href="https://khalid-annan.com"><img src="./terminal.svg" alt="khalid@annan — security engineer · builder · operator" width="760"></a>
 
-![CCNP](https://img.shields.io/badge/CCNP-Core_Networking-1ba0d7?style=flat-square&logo=cisco&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO_27001%3A2022-Lead_Auditor-0057a8?style=flat-square&logoColor=white)
+![Status](https://img.shields.io/badge/status-available_immediately-2ea043?style=flat-square)
+![CCNP](https://img.shields.io/badge/CCNP-Core-1ba0d7?style=flat-square&logo=cisco&logoColor=white)
 ![CCNA](https://img.shields.io/badge/CCNA-Full_Track-1ba0d7?style=flat-square&logo=cisco&logoColor=white)
-![Cisco NS](https://img.shields.io/badge/Cisco-Network_Security-1ba0d7?style=flat-square&logo=cisco&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001%3A2022-Lead_Auditor-0057a8?style=flat-square)
+![Location](https://img.shields.io/badge/Gothenburg-SE_·_remote-006aa7?style=flat-square)
 
 </div>
 
-<br>
+---
 
-Qualified Network Engineer *(Yrkeshögskoleexamen, Nätverksspecialist)* with hands-on SOC analyst experience — designing, building, and securing real network infrastructure.
+**Network &amp; security engineer who builds the tools he secures with.** Qualified network engineer *(Yrkeshögskoleexamen, Nätverksspecialist)* with hands-on SOC analyst experience — designing, building, and securing real infrastructure.
 
-**Focus** &emsp; Network security &thinsp;·&thinsp; SIEM/IDS detection (Splunk, Suricata, Wazuh) &thinsp;·&thinsp; Firewalls & segmentation (OPNsense) &thinsp;·&thinsp; Linux infrastructure &thinsp;·&thinsp; Security governance
+**Recent** &emsp; Designed a segmented four-zone SOC lab with SIEM-based threat detection *(thesis)*. SOC analyst placement — evaluated *"ready for entry-level SOC analyst roles."*
 
-**Recent** &emsp; Designed a segmented four-zone SOC lab with SIEM-based threat detection (academic thesis). &ensp;SOC analyst placement — evaluated *"ready for entry-level SOC analyst roles."*
+**Building** &emsp; [Privé Services](https://prive.services) — vCISO consultancy + a 43-tool security automation stack &nbsp;·&nbsp; **Trillion** — a voice-first AI co-founder &nbsp;·&nbsp; an active home lab.
 
 <br>
 
@@ -60,6 +53,6 @@ Qualified Network Engineer *(Yrkeshögskoleexamen, Nätverksspecialist)* with ha
 
 <div align="center">
 
-🔗 &nbsp;[credly.com/users/khalid-annan](https://www.credly.com/users/khalid-annan)
+[`khalid-annan.com`](https://khalid-annan.com) &nbsp;·&nbsp; [`linkedin.com/in/khalid-annan`](https://linkedin.com/in/khalid-annan) &nbsp;·&nbsp; [`credly`](https://www.credly.com/users/khalid-annan) &nbsp;·&nbsp; `mail@khalid-annan.com`
 
 </div>

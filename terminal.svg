@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="520" viewBox="0 0 760 520" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="14" fill="#cdd6df">
+  <defs><clipPath id="r"><rect width="760" height="520" rx="12"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="760" height="520" fill="#0b0e12"/>
+    <rect width="760" height="40" fill="#10141a"/>
+    <circle cx="24" cy="20" r="6" fill="#e06c75"/><circle cx="44" cy="20" r="6" fill="#e5c07b"/><circle cx="64" cy="20" r="6" fill="#98c379"/>
+    <text x="88" y="25" fill="#5a6573">khalid@annan: ~</text>
+
+    <g opacity="0"><animate attributeName="opacity" to="1" begin="0.15s" dur="0.3s" fill="freeze"/>
+      <text x="20" y="72"><tspan fill="#c678dd">khalid@annan</tspan><tspan fill="#5a6573">:</tspan><tspan fill="#56b6c2">~</tspan><tspan fill="#5ad17f">$ </tspan><tspan fill="#eef3f7">whoami</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" begin="0.35s" dur="0.3s" fill="freeze"/>
+      <text x="20" y="97" fill="#eef3f7">Khalid Annan</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" begin="0.55s" dur="0.3s" fill="freeze"/>
+      <text x="20" y="122"><tspan fill="#c678dd">khalid@annan</tspan><tspan fill="#5a6573">:</tspan><tspan fill="#56b6c2">~</tspan><tspan fill="#5ad17f">$ </tspan><tspan fill="#eef3f7">cat role</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" begin="0.75s" dur="0.3s" fill="freeze"/>
+      <text x="20" y="147">security_engineer <tspan fill="#5a6573">·</tspan> builder <tspan fill="#5a6573">·</tspan> operator</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" begin="0.95s" dur="0.3s" fill="freeze"/>
+      <text x="20" y="172"><tspan fill="#c678dd">khalid@annan</tspan><tspan fill="#5a6573">:</tspan><tspan fill="#56b6c2">~</tspan><tspan fill="#5ad17f">$ </tspan><tspan fill="#eef3f7">cat about</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" begin="1.1s" dur="0.3s" fill="freeze"/>
+      <text x="20" y="197">Network &amp; security engineer @ <tspan fill="#56b6c2">57.71&#176; N, 11.97&#176; E</tspan>.</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" begin="1.25s" dur="0.3s" fill="freeze"/>
+      <text x="20" y="222">I ship the things that need debugging <tspan fill="#5ad17f">:)</tspan> &#8212; tool-stacking,</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" begin="1.4s" dur="0.3s" fill="freeze"/>
+      <text x="20" y="247">AI prompt-engineering, a home lab running real SIEM and IDS.</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" begin="1.55s" dur="0.3s" fill="freeze"/>
+      <text x="20" y="272">Certified, hands-on, always building.</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" begin="1.7s" dur="0.3s" fill="freeze"/>
+      <text x="20" y="297"><tspan fill="#c678dd">khalid@annan</tspan><tspan fill="#5a6573">:</tspan><tspan fill="#56b6c2">~</tspan><tspan fill="#5ad17f">$ </tspan><tspan fill="#eef3f7">ls builds/</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" begin="1.85s" dur="0.3s" fill="freeze"/>
+      <text x="20" y="322"><tspan fill="#56b6c2">social-skills/</tspan>  <tspan fill="#e0a96d">[redacted]/</tspan>  <tspan fill="#56b6c2">tools/</tspan>  <tspan fill="#56b6c2">home-lab/</tspan>  <tspan fill="#56b6c2">43-tool-stack/</tspan>  <tspan fill="#56b6c2">SOC/</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" begin="2.0s" dur="0.3s" fill="freeze"/>
+      <text x="20" y="347"><tspan fill="#c678dd">khalid@annan</tspan><tspan fill="#5a6573">:</tspan><tspan fill="#56b6c2">~</tspan><tspan fill="#5ad17f">$ </tspan><tspan fill="#eef3f7">cat certs</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" begin="2.15s" dur="0.3s" fill="freeze"/>
+      <text x="20" y="372" fill="#5a6573"><tspan fill="#56b6c2">CCNA</tspan> · <tspan fill="#56b6c2">CCNP</tspan> · <tspan fill="#56b6c2">ISO 27001:2022 Lead Auditor</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" begin="2.3s" dur="0.3s" fill="freeze"/>
+      <text x="20" y="397"><tspan fill="#c678dd">khalid@annan</tspan><tspan fill="#5a6573">:</tspan><tspan fill="#56b6c2">~</tspan><tspan fill="#5ad17f">$ </tspan><tspan fill="#eef3f7">./status</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" begin="2.45s" dur="0.3s" fill="freeze"/>
+      <text x="20" y="422" fill="#5a6573"><tspan fill="#e0a96d">job_hunting</tspan> · <tspan fill="#5ad17f">available_immediately</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" begin="2.6s" dur="0.3s" fill="freeze"/>
+      <text x="20" y="447"><tspan fill="#c678dd">khalid@annan</tspan><tspan fill="#5a6573">:</tspan><tspan fill="#56b6c2">~</tspan><tspan fill="#5ad17f">$ </tspan><tspan fill="#eef3f7">cat location</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" begin="2.75s" dur="0.3s" fill="freeze"/>
+      <text x="20" y="472">globally / remotely</text></g>
+    <g opacity="0"><animate attributeName="opacity" to="1" begin="2.9s" dur="0.3s" fill="freeze"/>
+      <text x="20" y="497"><tspan fill="#c678dd">khalid@annan</tspan><tspan fill="#5a6573">:</tspan><tspan fill="#56b6c2">~</tspan><tspan fill="#5ad17f">$ </tspan></text>
+      <rect x="156" y="486" width="9" height="14" fill="#5ad17f"><animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite" begin="3s"/></rect></g>
+  </g>
+</svg>
