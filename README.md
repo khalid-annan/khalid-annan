@@ -16,7 +16,6 @@
 
 **Recent** &emsp; Designed a segmented four-zone SOC lab with SIEM-based threat detection *(thesis)*. SOC analyst placement — evaluated *"ready for entry-level SOC analyst roles."*
 
-**Building** &emsp; [Privé Services](https://prive.services) — vCISO consultancy + a 43-tool security automation stack &nbsp;·&nbsp; **Trillion** — a voice-first AI co-founder &nbsp;·&nbsp; an active home lab.
 
 <br>
 
