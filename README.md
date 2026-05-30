@@ -52,6 +52,6 @@
 
 <div align="center">
 
-[`khalid-annan.com`](https://khalid-annan.com) &nbsp;·&nbsp; [`linkedin.com/in/khalid-annan`](https://linkedin.com/in/khalid-annan) &nbsp;·&nbsp; [`credly`](https://www.credly.com/users/khalid-annan) &nbsp;·&nbsp; `mail@khalid-annan.com`
+[`khalid-annan.com`](https://khalid-annan.com) &nbsp;·&nbsp; [`credly`](https://www.credly.com/users/khalid-annan) &nbsp;·&nbsp; `mail@khalid-annan.com`
 
 </div>
